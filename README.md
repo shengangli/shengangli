@@ -7,18 +7,37 @@ However, I love building corky, witty, useless and fun side projects for my pers
 Here it is:
 ### 📊 Dustinの意味がないデータ分析
 The project is to visualize all the interesting data in my life. Distributed at the front end. 
-##### 🧰 Tech Stack <p> https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white </p>
+#### 🧰 Tech Stack  
+<img src = "https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">
+ <img src = "https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"> 
+ <img src = "https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
+ <img src = "https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
+ <img src = "https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff">
+ <img src = "https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white">
+
+ ↑ Just being honest, I had too many questions
+ 
+ 
+
 
 ### 🔭 Dustin周りの生活によくある謎のデータ
 This is the data pipeline for the above project
 
-## 🧰 Tech Stack I am working on
+#### 🧰 Tech Stack 
+<img src = "https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">
+<img src = "https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white">
+<img src = "https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+ <img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff" />
+
+
+## 🧰 Tech Stack I am really looking into
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/HTMX-36C?logo=htmx&logoColor=fff" />
+  <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" />
+ 
 </p>
 
 ### 📫 Contact Me
