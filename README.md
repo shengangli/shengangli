@@ -5,7 +5,7 @@ I work in IT as a AI engineer/data engineer. I am not a fan of building portfoli
 
 However, I love building corky, witty, useless and fun side projects for my personal life:
 Here it is:
-## 📊 Dustinの意味がないデータ分析
+### 📊 Dustinの意味がないデータ分析
 The project is to visualize all the interesting data in my life. Distributed at the front end. 
 
 ### 🔭 Dustin周りの生活によくある謎のデータ
