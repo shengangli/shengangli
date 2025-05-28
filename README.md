@@ -7,6 +7,7 @@ However, I love building corky, witty, useless and fun side projects for my pers
 Here it is:
 ### 📊 Dustinの意味がないデータ分析
 The project is to visualize all the interesting data in my life. Distributed at the front end. 
+##### 🧰 Tech Stack <p> https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white </p>
 
 ### 🔭 Dustin周りの生活によくある謎のデータ
 This is the data pipeline for the above project
