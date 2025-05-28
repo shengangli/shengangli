@@ -1,20 +1,20 @@
-<h1 align="center">Hi, I'm Dustin 👋</h1>
+<h1 align="center">Hi, I'm Shengangli 👋</h1>
 
-### 🔥 What I Do
-- 💻 Fullstack development (Frontend & Backend)
-- 🎬 Making cool YouTube tutorials
-- 🌟 Exploring new frameworks
+### ✨ About Me
+I'm a curious developer who loves building data projects and automating fun things in Python and JavaScript. I also enjoy learning cloud and DevOps tools.
 
-### 💻 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+### 🧰 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
 </p>
 
+### 📊 Projects
+- 📈 [tokyo-twitter-tracker](https://github.com/shengangli/tokyo-twitter-tracker): Scrapes and stores public info about Tokyo
+- 🏡 Suginami housing tracker (WIP)
+
 ### 📫 Contact Me
-- Email: your-email@example.com
-- Telegram: [@yourhandle](https://t.me/yourhandle)
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- GitHub: [@shengangli](https://github.com/shengangli)
